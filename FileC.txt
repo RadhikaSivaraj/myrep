@@ -1,0 +1,3 @@
+my file C tht i created in master
+
+modified by branch1
